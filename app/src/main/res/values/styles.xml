@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="txtStyle"  parent="@android:style/Widget.TextView.SpinnerItem">
+        <item name="android:textSize">30sp</item>
+    </style>
+</resources>
